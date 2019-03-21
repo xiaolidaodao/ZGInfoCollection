@@ -32,6 +32,6 @@
             self.infoTextLabel.text = desc;
         }
     }];
-    NSLog(@"test two");
+    NSLog(@"test one");
 }
 @end
